@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+table>tr{
+    border: none !important; border-right: solid 1px #ccc !important;
+
+}
+tr:hover{
+    color: blue;
+}
+#demo{
+    margin-top: 25px;
+}
+#dropDown{
+    border-left: none;
+    border-right: none;
+    border-top: none;
+   border-width: 3px;
+  border-color: black;
+    width: 80px;
+}
+
+
+
+
+
